@@ -9,6 +9,7 @@ yarn-error.log*
 selenium-debug.log
 src/utils/gwd.js
 assets/img
+assets/vendor
 # Editor directories and files
 .idea
 .vscode
